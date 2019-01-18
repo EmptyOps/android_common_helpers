@@ -1,0 +1,3 @@
+[submodule "src/main/java/com/hsquaretech/android_common_helpers/android_common_helpers/android_core_helpers"]
+	path = src/main/java/com/hsquaretech/android_common_helpers/android_common_helpers/android_core_helpers
+	url = https://github.com/EmptyOps/android_core_helpers.git

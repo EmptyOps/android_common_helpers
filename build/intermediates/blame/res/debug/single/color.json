@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/3750d43a2872f469c8e3cdb832f681f6/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/3750d43a2872f469c8e3cdb832f681f6/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.0.0.aar/31e96b5b691a06f1a5ba33c289ce0e3d/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/90ff60745e75517ed5c5f7ffd3f0c96f/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.0.aar/3750d43a2872f469c8e3cdb832f681f6/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.0.0.aar/31e96b5b691a06f1a5ba33c289ce0e3d/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/90ff60745e75517ed5c5f7ffd3f0c96f/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/color/abc_btn_colored_borderless_text_material.xml"
+    }
+]

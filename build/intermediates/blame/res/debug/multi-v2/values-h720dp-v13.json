@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.0.aar/7e09f08872042ee29fcd0374e9bf6eea/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.0.aar/7e09f08872042ee29fcd0374e9bf6eea/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.0.aar/7e09f08872042ee29fcd0374e9bf6eea/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/drawable-watch-v20/abc_dialog_material_background.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/drawable-watch-v20/abc_dialog_material_background.xml"
+    }
+]

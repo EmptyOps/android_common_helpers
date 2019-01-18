@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+            "map": [
+                {
+                    "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.0.0.aar/31e96b5b691a06f1a5ba33c289ce0e3d/res/values-en-rSG/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "244",
+                        "endColumns": "99",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/values-en-rSG/values-en-rSG.xml",
+            "map": [
+                {
+                    "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.0.0.aar/31e96b5b691a06f1a5ba33c289ce0e3d/res/values-en-rSG/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "244",
+                        "endColumns": "99",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        }
+    ]
+}

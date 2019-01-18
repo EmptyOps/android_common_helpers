@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.0.aar/1ea3902799fbd400c7bf065d925c3063/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.0.aar/1ea3902799fbd400c7bf065d925c3063/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.0.aar/1ea3902799fbd400c7bf065d925c3063/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.0.aar/1ea3902799fbd400c7bf065d925c3063/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
+    }
+]

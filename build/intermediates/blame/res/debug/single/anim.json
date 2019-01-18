@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/anim/abc_tooltip_exit.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/90ff60745e75517ed5c5f7ffd3f0c96f/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/90ff60745e75517ed5c5f7ffd3f0c96f/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/90ff60745e75517ed5c5f7ffd3f0c96f/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/anim/abc_tooltip_enter.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/90ff60745e75517ed5c5f7ffd3f0c96f/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d91cb1f7c26585137e09c43ce0912d1a/res/anim/abc_fade_out.xml"
+    }
+]

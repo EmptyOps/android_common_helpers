@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/73ea85421dc38dacfced8b5ecf7805ab/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/73ea85421dc38dacfced8b5ecf7805ab/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/73ea85421dc38dacfced8b5ecf7805ab/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/73ea85421dc38dacfced8b5ecf7805ab/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/hiren/Documents/androidStudioApps/TVC_RESERVATION_MANAGEMENT/TVC_RESERVATION_MANAGEMENT/android_common_helpers/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/hiren/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.0.aar/eff62b5b010bc68b5b5975409190ef5f/res/layout-v21/place_autocomplete_fragment.xml"
+    }
+]
